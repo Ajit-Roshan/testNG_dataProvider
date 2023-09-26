@@ -14,7 +14,7 @@ public class P_one  {
 	public Object[][] dataCollection() {
 		
 		Object[][] coll= {
-				{"ajit"},{"roshan"},{"soy"},{"ranchi"},{"dhanbad"}
+				{"ajit","1"},{"roshan","2"},{"soy","3"},{"ranchi","4"},{"dhanbad","5"}
 				};
 				
 				

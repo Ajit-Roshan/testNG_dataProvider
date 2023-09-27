@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="PoI_Suite">
+  <test name="Test">
+    <classes>
+      <class name="testNG_B_ApachiPoi_dataProvider.P_two"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- PoI_Suite -->
